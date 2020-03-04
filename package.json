@@ -1,0 +1,26 @@
+{
+  "name": "sysco-supplier-suite-uzer",
+  "version": "1.0.1",
+  "description": "A module that will called the user management backend and return user permissions of the requested user or user against requested application",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RanmalN/uzer.git"
+  },
+  "author": "Ranmal Nanayakkara <ranmal.nanayakkara@syscolabs.com>",
+  "license": "SEE LICENSE IN license.txt",
+  "bugs": {
+    "url": "https://github.com/RanmalN/uzer/issues"
+  },
+  "homepage": "https://github.com/RanmalN/uzer#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "@types/pluralize": "0.0.27",
+    "typescript": "^2.5.3"
+  }
+}
