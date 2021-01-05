@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/RanmalN/uzer#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "@types/pluralize": "0.0.27",
     "typescript": "^2.5.3"
   }
